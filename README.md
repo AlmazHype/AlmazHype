@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @AlmazHype
+- 👀 I’m interested in Mobile Development
+- 🌱 I’m currently learning Flutter and Unity
+- 💞️ I’m looking to collaborate on designers and developers
+- 📫 How to reach me almazhype@gmail.com
